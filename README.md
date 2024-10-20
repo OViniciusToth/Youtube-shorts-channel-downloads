@@ -47,7 +47,3 @@ This guide provides detailed instructions for downloading YouTube Shorts videos 
 
 ### 8. Check the Saved Videos
    - Once all downloads are complete, navigate to the folder you selected to find your downloaded Shorts videos.
-
----
-
-This step-by-step guide will help users navigate through the process of downloading YouTube Shorts videos using your script effectively. Feel free to modify any details as necessary!
