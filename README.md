@@ -1,4 +1,3 @@
-# Youtube-shorts-channel-downloads
 # YouTube Shorts Channel Downloader
 
 This guide provides detailed instructions for downloading YouTube Shorts videos using the script from the **YouTube-Shorts-Channel-Downloads** repository.
